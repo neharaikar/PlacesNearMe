@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlacesNearMe</string>
+    <string name="keyword">Keyword...</string>
+    <string name="search">Search</string>
+    <string name="map_direction_key">AIzaSyACdwr-dYXK5iZAJTohYN0F_jXYEG1ohyc</string>
+
+</resources>
